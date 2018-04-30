@@ -209,11 +209,11 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 # Thank you. Q&A Time!
 
 - Contact Info
- - Blog: hibbittsdesign.org
- - Twitter: @hibbittsdesign
- - Email: paul@hibbittsdesign.org
+  - Blog: hibbittsdesign.org
+  - Twitter: @hibbittsdesign
+  - Email: paul@hibbittsdesign.org
 - Grav Open Course Hub
- - Demo: demo.hibbittsdesign.org/coursehub
- - Canvas Demo: demo.hibbittsdesign.org/canvascoursehub
- - Moodle Demo: demo.hibbittsdesign.org/moodlecoursehub
- - Docs: learn.hibbittsdesign.org/coursehub
+  - Demo: demo.hibbittsdesign.org/coursehub
+  - Canvas Demo: demo.hibbittsdesign.org/canvascoursehub
+  - Moodle Demo: demo.hibbittsdesign.org/moodlecoursehub
+  - Docs: learn.hibbittsdesign.org/coursehub
