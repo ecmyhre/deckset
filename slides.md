@@ -22,12 +22,12 @@ slidenumbers: true
 ---
 
 [.background-color: #000000]
-![fit](getgrav.png)
+![fit](images/getgrav.png)
 
 ---
 
 [.background-color: #000000]
-![fit](getgrav-2.png)
+![fit](images/getgrav-2.png)
 
 ---
 
@@ -51,7 +51,7 @@ slidenumbers: true
 
 ---
 
-![fit](grav-conceptual-design.png)
+![fit](images/grav-conceptual-design.png)
 
 ---
 
@@ -78,17 +78,17 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 ---
 
 [.background-color: #000000]
-![fit](open-course-hub-example-1.png)
+![fit](images/open-course-hub-example-1.png)
 
 ---
 
 [.background-color: #000000]
-![fit](open-course-hub-example-2.png)
+![fit](images/open-course-hub-example-2.png)
 
 ---
 
 [.background-color: #000000]
-![fit](open-course-hub-example-3.png)
+![fit](images/open-course-hub-example-3.png)
 
 ---
 
@@ -113,22 +113,22 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 ---
 
 [.background-color: #FFFFFF]
-![fit](grav-open-course-workflow-1.png)
+![fit](images/grav-open-course-workflow-1.png)
 
 ---
 
 [.background-color: #FFFFFF]
-![fit](grav-open-course-workflow-2.png)
+![fit](images/grav-open-course-workflow-2.png)
 
 ---
 
 [.background-color: #FFFFFF]
-![fit](grav-open-course-workflow-3.png)
+![fit](images/grav-open-course-workflow-3.png)
 
 ---
 
 [.background-color: #FFFFFF]
-![fit](grav-open-course-workflow-4.png)
+![fit](images/grav-open-course-workflow-4.png)
 
 ---
 
