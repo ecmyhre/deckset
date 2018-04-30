@@ -188,13 +188,15 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 ---
 
 # Things to Explore Next
-- Grav CMS Official Site
-  - [getgrav.org](https://getgrav.org)
-- Markdown
-  - [Learn the basics of Markdown in ten minutes](https://designedbywaldo.com/en/tools/markdown-tutorial)
-- GitHub Workflow
-  - [Introduction - Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&index=1&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-  - [GitHub Desktop App](https://desktop.github.com/)
+Grav CMS Official Site
+[getgrav.org](https://getgrav.org)
+
+Markdown
+[Learn the basics of Markdown in ten minutes](https://designedbywaldo.com/en/tools/markdown-tutorial)
+
+GitHub Workflow
+[Introduction - Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&index=1&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+[GitHub Desktop App](https://desktop.github.com/)
 
 ---
 
@@ -208,12 +210,13 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 # Thank you. Q&A Time!
 
-- Contact Info
-  - Blog: hibbittsdesign.org
-  - Twitter: @hibbittsdesign
-  - Email: paul@hibbittsdesign.org
-- Grav Open Course Hub
-  - Demo: demo.hibbittsdesign.org/coursehub
-  - Canvas Demo: demo.hibbittsdesign.org/canvascoursehub
-  - Moodle Demo: demo.hibbittsdesign.org/moodlecoursehub
-  - Docs: learn.hibbittsdesign.org/coursehub
+**Contact Info**
+Blog: [hibbittsdesign.org](http://hibbittsdesign.org/blog)
+Twitter: [@hibbittsdesign](https://twitter.com/hibbittsdesign)
+Email: [paul@hibbittsdesign.org](mailto://paul@hibbittsdesign.org)
+
+**Grav Open Course Hub**
+Demo: [demo.hibbittsdesign.org/coursehub](http://demo.hibbittsdesign.org/coursehub)
+Canvas Demo: [demo.hibbittsdesign.org/canvascoursehub](http://demo.hibbittsdesign.org/canvascoursehub)
+Moodle Demo: [demo.hibbittsdesign.org/moodlecoursehub](http://demo.hibbittsdesign.org/moodlecoursehub)
+Docs: [learn.hibbittsdesign.org/coursehub](http://learn.hibbittsdesign.org/coursehub)
