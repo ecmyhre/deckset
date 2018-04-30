@@ -33,21 +33,21 @@ slidenumbers: true
 
 # Key Aspects of Grav
 - File-based
- - Fast performance (esp. smaller sites), simplicity, portability and generally more secure
- - File-based content also naturally supports version control
- - Grav can also be a front-end for any collaborative Git repository
+  - Fast performance (esp. smaller sites), simplicity, portability and generally more secure
+  - File-based content also naturally supports version control
+  - Grav can also be a front-end for any collaborative Git repository
 
 ---
 
 # Key Aspects of Grav
 - Markdown
- - A platform-independent format perfect for writing and the 5Rs
+  - A platform-independent format perfect for writing and the 5Rs
 - Modular
- - Modular content is possible, along with custom content types
+  - Modular content is possible, along with custom content types
 - Workflow
- - Supports an efficient edit and publish workflow (esp. Git-based)
+  - Supports an efficient edit and publish workflow (esp. Git-based)
 - Customization
- - Powerful Blueprints supports Admin Panel customizations
+  - Powerful Blueprints supports Admin Panel customizations
 
 ---
 
@@ -189,12 +189,12 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 # Things to Explore Next
 - Grav CMS Official Site
- - [getgrav.org](https://getgrav.org)
+  - [getgrav.org](https://getgrav.org)
 - Markdown
- - [Learn the basics of Markdown in ten minutes](https://designedbywaldo.com/en/tools/markdown-tutorial)
+  - [Learn the basics of Markdown in ten minutes](https://designedbywaldo.com/en/tools/markdown-tutorial)
 - GitHub Workflow
- - [Introduction - Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&index=1&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
- - [GitHub Desktop App](https://desktop.github.com/)
+  - [Introduction - Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&index=1&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+  - [GitHub Desktop App](https://desktop.github.com/)
 
 ---
 
