@@ -1,12 +1,12 @@
 autoscale: true
-footer: Paul D Hibbitts (@hibbittsdesign)
-slidenumbers: true
 
 [.header: color:, #FFFFFF, alignment(left)]
-# Delivering a Better Experience by Using the Open, Collaborative and Flexible Grav CMS – Inside or Outside of your LMS
+# Delivering a Better Experience by Using the Open, Collaborative and Flexible Grav CMS<br>– Inside or Outside of your LMS<br>
+### Paul D Hibbitts<br>[hibbittsdesign.org](https://hibbittsdesign.org/blog)<br>[@hibbittsdesign](https://twitter.com/hibbittsdesign)
 
 ---
 
+[.text: line-height(.8)]
 # Topics for Today
 1. What is Grav?
 2. Grav Open Course Hub Project
@@ -32,6 +32,8 @@ slidenumbers: true
 ---
 
 # Key Aspects of Grav
+[.build-lists: true]
+[.text: line-height(.8)]
 - File-based
   - Fast performance (esp. smaller sites), simplicity, portability and generally more secure
   - File-based content also naturally supports version control
@@ -40,6 +42,8 @@ slidenumbers: true
 ---
 
 # Key Aspects of Grav
+[.build-lists: true]
+[.text: line-height(.8)]
 - Markdown
   - A platform-independent format perfect for writing and the 5Rs
 - Modular
@@ -67,6 +71,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 ---
 
 # Key Aspects of Grav Open Course Hub
+[.text: line-height(.8)]
 - Streamlined setup and configuration (incl. Git Sync)
 - Supports open and collaborative content (via Git repository)
 - Theme files synced to Git repository for collaborative authoring/assistance
@@ -93,6 +98,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 ---
 
 # What Skills are Required?
+[.text: line-height(.8)]
 - Intended for 'Tech-savvy' educators:
  - Code editor usage (e.g. Atom or Brackets)
  - Markdown or HTML basics
@@ -103,6 +109,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 ---
 
 # Grav Open Course Hub is Intended for Tech-savvy Educators who Value:
+[.text: line-height(.8)]
 - Controllability
 - Flexibility
 - Portability
@@ -133,6 +140,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 ---
 
 # Problems That Course Hub Addresses
+[.text: line-height(.8]
 - Pedagogical goals that are unmet by the current LMS
 - Student and facilitator experiences, especially multi-device, are below expectations
 - Ability to access, share and collaboratively edit course materials is lacking
@@ -201,6 +209,7 @@ GitHub Workflow
 ---
 
 # Summary
+[.text: line-height(.8)]
 1. What is Grav?
 2. Grav Open Course Hub Project
 3. Other Open-related Grav Projects
