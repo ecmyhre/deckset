@@ -155,5 +155,65 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 ---
 
 [.header: color:, #FFFFFF, alignment(left)]
-# Enough Talking, Demo Time!
+# Enough Talk, Demo Time!
 ## [demo.hibbittsdesign.org/coursehub](http://demo.hibbittsdesign.org/coursehub)
+
+---
+
+[.background-color: #8fa33b]
+[.header: color:, #FFFFFF, alignment(left)]
+# Other Open-related Grav Projects
+
+---
+
+[.background-color: #FFFFFF]
+![fit](images/grav-open-publishing-space.png)
+
+---
+
+[.background-color: #FFFFFF]
+![fit](images/grav-learn2-with-git-sync.png)
+
+---
+
+[.background-color: #FFFFFF]
+![fit](images/grav-hypothesis-plugin.png)
+
+---
+
+[.background-color: #8fa33b]
+[.header: color:, #FFFFFF, alignment(left)]
+# Next Steps
+
+---
+
+# Things to Explore Next
+- Grav CMS Official Site
+ - [getgrav.org](https://getgrav.org)
+- Markdown
+ - [Learn the basics of Markdown in ten minutes](https://designedbywaldo.com/en/tools/markdown-tutorial)
+- GitHub Workflow
+ - [Introduction - Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&index=1&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+ - [GitHub Desktop App](https://desktop.github.com/)
+
+---
+
+# Summary
+- What is Grav?
+- Grav Open Course Hub Project
+- Other Open-related Grav Projects
+- Next Steps
+
+---
+
+# Thank you. Q&A Time!
+
+- Contact Info
+ - Blog: hibbittsdesign.org
+ - Twitter: @hibbittsdesign
+ - Email: paul@hibbittsdesign.org
+- Grav Open Course Hub
+ - Demo: demo.hibbittsdesign.org/coursehub
+ - Canvas Demo: demo.hibbittsdesign.org/canvascoursehub
+ - Moodle Demo: demo.hibbittsdesign.org/moodlecoursehub
+ - Docs: learn.hibbittsdesign.org/coursehub
