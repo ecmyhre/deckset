@@ -8,10 +8,10 @@ slidenumbers: true
 ---
 
 # Topics for Today
-- What is Grav?
-- Grav Open Course Hub Project
-- Other Open-related Grav Projects
-- Next Steps
+1. What is Grav?
+2. Grav Open Course Hub Project
+3. Other Open-related Grav Projects
+4. Next Steps
 
 ---
 
@@ -201,10 +201,10 @@ GitHub Workflow
 ---
 
 # Summary
-- What is Grav?
-- Grav Open Course Hub Project
-- Other Open-related Grav Projects
-- Next Steps
+1. What is Grav?
+2. Grav Open Course Hub Project
+3. Other Open-related Grav Projects
+4. Next Steps
 
 ---
 
