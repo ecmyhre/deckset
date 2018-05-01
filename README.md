@@ -1,4 +1,4 @@
-# Delivering a Better Experience by Using the Open, Collaborative and Flexible Grav CMS – Inside or Outside of your LMS
+# Delivering a Better Experience by Using the Open, Collaborative and Flexible Grav CMS<br>– Inside or Outside of your LMS
 
 Want to provide students and course facilitators a better online experience but still want or need to use the existing institutional LMS? Faced with this exact challenge, Paul Hibbitts started to develop a set of components in 2016 for the modern Grav Content Management System ([getgrav.org](https://getgrav.org/) to partner with his institution's LMS (Canvas). Grav leverages forward-looking standards such as Markdown for platform-independent content and enables Git-based (i.e. GitHub, GitLab, GitBook, etc.) collaborative workflows, both which naturally also supports the 5 Rs of Open Educational Resources. In addition, the ability to use GitHub Desktop (desktop.github.com) for mirroring Git-based content to one’s own computer for backup and editing with the tools of your choice not only brings peace of mind but also a highly efficient workflow.
 
