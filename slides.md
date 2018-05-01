@@ -98,7 +98,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-# :trophy: So, What Skills are Required? :trophy: 
+# :computer: So, What Skills are Required? :computer: 
 [.build-lists: true]
 [.text: line-height(.8)]
 - Intended for 'Tech-savvy' educators:
