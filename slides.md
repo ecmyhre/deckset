@@ -1,6 +1,5 @@
 autoscale: true
 
-[.header: color:, #FFFFFF, alignment(left)]
 # Delivering a Better Experience by Using the Open, Collaborative and Flexible Grav CMS<br>– Inside or Outside of your LMS<br>
 ### Paul D Hibbitts<br>[hibbittsdesign.org](https://hibbittsdesign.org/blog)<br>[@hibbittsdesign](https://twitter.com/hibbittsdesign)
 
@@ -16,7 +15,6 @@ autoscale: true
 ---
 
 [.background-color: #8fa33b]
-[.header: color:, #FFFFFF, alignment(left)]
 # What is Grav?
 
 ---
@@ -55,12 +53,14 @@ autoscale: true
 
 ---
 
-![fit](images/grav-conceptual-design.png)
+# Grav's Layered Conceptual Design
+<br><br><br>
+
+![inline](images/grav-conceptual-design.png)
 
 ---
 
 [.background-color: #8fa33b]
-[.header: color:, #FFFFFF, alignment(left)]
 # Open Course Hub Project
 
 ---
@@ -71,6 +71,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 ---
 
 # Key Aspects of Grav Open Course Hub
+[.build-lists: true]
 [.text: line-height(.8)]
 - Streamlined setup and configuration (incl. Git Sync)
 - Supports open and collaborative content (via Git repository)
@@ -97,7 +98,8 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-# What Skills are Required?
+# So, What Skills are Required?
+[.build-lists: true]
 [.text: line-height(.8)]
 - Intended for 'Tech-savvy' educators:
  - Code editor usage (e.g. Atom or Brackets)
@@ -162,14 +164,12 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-[.header: color:, #FFFFFF, alignment(left)]
 # Enough Talk, Demo Time!
 ## [demo.hibbittsdesign.org/coursehub](http://demo.hibbittsdesign.org/coursehub)
 
 ---
 
 [.background-color: #8fa33b]
-[.header: color:, #FFFFFF, alignment(left)]
 # Other Open-related Grav Projects
 
 ---
