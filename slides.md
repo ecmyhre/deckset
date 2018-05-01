@@ -169,12 +169,21 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
+[.background-color: #8fa33b]
+# Other Open-related Grav Projects
+
+---
+
 [.text: line-height(.8)]
 # :satellite: Other Grav Projects We Could Look At :satellite:
 - Open Publishing Space
   - Share and collaboratively edit Markdown-based OER
 - Learn2 with Git Sync
   - Share and collaboratively edit Markdown-based documentation
+- H5P Shortcode
+  - Display H5P.org and locally store H5P content
+- Hypothesis Plugin
+  - Display the Hypothesis sidebar on your Grav site
 
 ---
 
