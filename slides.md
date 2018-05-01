@@ -170,7 +170,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 ---
 
 [.text: line-height(.8)]
-# :satellite: Other Grav Projects We Could Explore :satellite:
+# :satellite: Other Grav Projects We Could Look At :satellite:
 - Open Publishing Space
   - Share and collaboratively edit Markdown-based OER
 - Learn2 with Git Sync
