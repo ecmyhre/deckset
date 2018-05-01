@@ -6,7 +6,7 @@ autoscale: true
 ---
 
 [.text: line-height(.8)]
-# Topics for Today
+# :rocket: Topics to Explore Today :rocket:
 1. What is Grav?
 2. Grav Open Course Hub Project
 3. Other Open-related Grav Projects
@@ -98,7 +98,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-# So, What Skills are Required?
+# :trophy: So, What Skills are Required? :trophy: 
 [.build-lists: true]
 [.text: line-height(.8)]
 - Intended for 'Tech-savvy' educators:
@@ -152,13 +152,13 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-# But What are Users Saying?
+# :speech_balloon: But What are Users Saying? :speech_balloon:
 > The Open Course Hub was easy to set up and get running and my students loved having a one-stop place to go to for their course content. I really love that it syncs with GitHub so easily and seamlessly. I was able to have an open, collaborative, easily updatable, fully version-controlled site up and running in little time, with fairly modest technical skills. On the student side, it is all beautiful and easy to use on any device!
 -- Mark Coster (Associate Professor at Griffith University, Australia)
 
 ---
 
-# But What are Users Saying?
+# :speech_balloon: But What are Users Saying? :speech_balloon:
 > The Open Course Hub project provides a series of excellent resources for integrating Grav with Canvas, as well as documentation and examples which make them a joy to work with. It is quick to set up, easy to use, and especially with the Git Sync plugin shows the power of a modern approach to integrated CMS-LMS solutions. The large and complex architecture of Canvas is complemented by the relative simplicity of Grav, and the Open Course Hub demonstrates this well.
 -- Ole Vik (Research Assistant at the University of Bergen, Norway and Grav Plugin Developer)
 
@@ -169,8 +169,11 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-[.background-color: #8fa33b]
-# Other Open-related Grav Projects
+# :satellite: Other Grav Projects We Could Explore :satellite:
+- Open Publishing Space
+  - Share and collaboratively edit Markdown-based OER
+- Learn2 with Git Sync
+  - Share and collaboratively edit Markdown-based documentation
 
 ---
 
@@ -184,18 +187,13 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-[.background-color: #FFFFFF]
-![fit](images/grav-hypothesis-plugin.png)
-
----
-
 [.background-color: #8fa33b]
 [.header: color:, #FFFFFF, alignment(left)]
 # Next Steps
 
 ---
 
-# Things to Explore Next
+# :telescope: Things to Explore Next :telescope:
 Grav CMS Official Site
 [getgrav.org](https://getgrav.org)
 
@@ -208,16 +206,18 @@ GitHub Workflow
 
 ---
 
-# Summary
-[.text: line-height(.8)]
-1. What is Grav?
-2. Grav Open Course Hub Project
-3. Other Open-related Grav Projects
-4. Next Steps
+# :rotating_light: Pop Quiz :rotating_light:
+Which of these “tech-savvy” skills concern you the most?
+ - Text editor usage (e.g. Atom or Brackets)
+ - Markdown or HTML basics
+ - Understanding folder hierarchies (i.e. relative links)
+ - Web server access
+ - GitHub/Lab/Book working knowledge
+ - GitHub Desktop App (not needed if using Atom)
 
 ---
 
-# Thank you. Q&A Time!
+# :star: Thank you. More Q&A Time! :star:
 
 **Contact Info**
 Blog: [hibbittsdesign.org](http://hibbittsdesign.org/blog)
