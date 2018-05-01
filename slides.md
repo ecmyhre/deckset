@@ -98,7 +98,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-# :computer: So, What Skills are Required? :computer: 
+# :computer: So, What Skills are Required? :computer:
 [.build-lists: true]
 [.text: line-height(.8)]
 - Intended for 'Tech-savvy' educators:
@@ -169,6 +169,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
+[.text: line-height(.8)]
 # :satellite: Other Grav Projects We Could Explore :satellite:
 - Open Publishing Space
   - Share and collaboratively edit Markdown-based OER
