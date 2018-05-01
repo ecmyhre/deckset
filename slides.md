@@ -53,7 +53,7 @@ autoscale: true
 
 ---
 
-# Grav's Layered Conceptual Design
+# Grav’s Layered Conceptual Design
 <br><br><br>
 
 ![inline](images/grav-conceptual-design.png)
