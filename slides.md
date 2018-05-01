@@ -170,12 +170,12 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 ---
 
 [.background-color: #8fa33b]
-# Other Open-related Grav Projects
+# Additional Open-related Grav Projects
 
 ---
 
 [.text: line-height(.8)]
-# :satellite: Other Grav Projects We Could Look At :satellite:
+# :satellite: Additional Open-related Grav Projects :satellite:
 - Open Publishing Space
   - Share and collaboratively edit Markdown-based OER
 - Learn2 with Git Sync
@@ -187,13 +187,38 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
+[.header: alignment(center),#000000]
 [.background-color: #FFFFFF]
-![fit](images/grav-open-publishing-space.png)
+# Open Publishing Space
+![inline](images/grav-open-publishing-space.png)
 
 ---
 
+[.header: alignment(center),#000000]
 [.background-color: #FFFFFF]
-![fit](images/grav-learn2-with-git-sync.png)
+# Learn2 with Git Sync
+![inline](images/grav-learn2-with-git-sync.png)
+
+---
+
+[.header: alignment(center),#000000]
+[.background-color: #FFFFFF]
+[.text: alignment(center), #000000]
+# H5P Shortcode
+
+```
+[h5p id="712"]
+[h5p url="https://h5p.org/h5p/embed/712"]
+```
+
+![inline](images/h5p.png)
+
+---
+
+[.header: alignment(center),#000000]
+[.background-color: #FFFFFF]
+# Hypothesis Plugin
+![inline](images/grav-hypothesis-plugin.png)
 
 ---
 
@@ -222,7 +247,7 @@ Which of these “tech-savvy” skills concern you the most?
  - Markdown or HTML basics
  - Understanding folder hierarchies (i.e. relative links)
  - Web server access
- - GitHub/Lab/Book working knowledge
+ - GitHub or GitLab working knowledge
  - GitHub Desktop App (not needed if using Atom)
 
 ---
