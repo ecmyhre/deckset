@@ -77,25 +77,64 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 - Streamlined setup and configuration (incl. Git Sync)
 - Supports open and collaborative content (via Git repository)
 - Theme files synced to Git repository for collaborative authoring/assistance
-- A ‘chromeless’ mode for embedding into other systems (i.e. Canvas LMS, Moodle, etc.)
 - Example course hubs (incl. basic, intermediate. and advanced)
 - Includes custom content type pages and Shortcodes (i.e. Embed.ly Web page preview cards, H5P and Swipe)
 - Fully customizable Sidebar using Markdown or HTML
 
 ---
 
-[.background-color: #000000]
-![fit](images/open-course-hub-example-1.png)
+[.background-color: #777777]
+![fit](images/grav-open-course-hub-skeleton-1.png)
 
 ---
 
 [.background-color: #000000]
-![fit](images/open-course-hub-example-2.png)
+![fit](images/grav-open-course-hub-skeleton-2.png)
 
 ---
 
 [.background-color: #000000]
-![fit](images/open-course-hub-example-3.png)
+![fit](images/grav-open-course-hub-skeleton-3.png)
+
+---
+
+[.background-color: #777777]
+![fit](images/grav-open-course-hub-skeleton-4.png)
+
+---
+
+[.background-color: #000000]
+![fit](images/grav-open-course-hub-skeleton-5.png)
+
+---
+
+[.background-color: #000000]
+![fit](images/grav-open-course-hub-skeleton-6.png)
+
+---
+
+[.background-color: #000000]
+![fit](images/grav-open-course-hub-skeleton-7.png)
+
+---
+
+[.background-color: #000000]
+![fit](images/grav-open-course-hub-skeleton-8.png)
+
+---
+
+[.background-color: #777777]
+![fit](images/grav-open-course-hub-skeleton-9.png)
+
+---
+
+[.background-color: #000000]
+![fit](images/grav-open-course-hub-skeleton-10.png)
+
+---
+
+[.background-color: #000000]
+![fit](images/grav-open-course-hub-skeleton-11.png)
 
 ---
 
@@ -165,13 +204,14 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-# Enough Talk, Demo Time!
-## [demo.hibbittsdesign.org/coursehub](http://demo.hibbittsdesign.org/coursehub)
+# Enough Talk, Demo Time!  
+
+## [demo.hibbittsdesign.org/cmpt-363-173/](http://demo.hibbittsdesign.org/cmpt-363-173/)
 
 ---
 
 # Wait, What about _Inside_ of an LMS?
-## [canvas.sfu.ca/courses/38847](https://canvas.sfu.ca/courses/38847)
+## [canvas.sfu.ca/courses/35900](https://canvas.sfu.ca/courses/35900)
 
 ---
 
