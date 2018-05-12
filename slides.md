@@ -1,3 +1,4 @@
+theme: Hibbitts Design
 autoscale: true
 
 # Delivering a Better Experience by Using the Open, Collaborative and Flexible Grav CMS<br>– Inside or Outside of your LMS<br>
