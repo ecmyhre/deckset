@@ -30,21 +30,21 @@ autoscale: true
 
 ---
 
-# Key Aspects of Grav
+#  Grav Highlights
 [.build-lists: true]
 [.text: line-height(.8)]
 - File-based
   - Fast performance (esp. smaller sites), simplicity, portability and generally more secure
   - File-based content also naturally supports version control
   - Grav can also be a front-end for any collaborative Git repository
+- Markdown
+  - A platform-independent format perfect for writing and the 5Rs
 
 ---
 
 # Key Aspects of Grav
 [.build-lists: true]
 [.text: line-height(.8)]
-- Markdown
-  - A platform-independent format perfect for writing and the 5Rs
 - Modular
   - Modular content is possible, along with custom content types
 - Workflow
@@ -71,7 +71,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-# Key Aspects of Grav Open Course Hub
+# Grav Open Course Hub
 [.build-lists: true]
 [.text: line-height(.8)]
 - Streamlined setup and configuration (incl. Git Sync)
@@ -138,7 +138,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-# :computer: So, What Skills are Required? :computer:
+# :computer: What Skills are Required? :computer:
 [.build-lists: true]
 [.text: line-height(.8)]
 - Intended for “Tech-savvy” educators:
@@ -181,7 +181,7 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-# Problems That the Course Hub Strives to Address
+# Problems the Course Hub Tackles
 [.text: line-height(.8]
 - Pedagogical goals that are unmet by the current LMS
 - Student and facilitator experiences, especially multi-device, are below expectations
@@ -192,13 +192,15 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-# :speech_balloon: But What are Users Saying? :speech_balloon:
+# :speech_balloon: What are Users Saying? :speech_balloon:
+
+---
+
 > “The Open Course Hub was easy to set up and get running and my students loved having a one-stop place to go to for their course content. I really love that it syncs with GitHub so easily and seamlessly. I was able to have an open, collaborative, easily updatable, fully version-controlled site up and running in little time, with fairly modest technical skills. On the student side, it is all beautiful and easy to use on any device!”
 -- Mark Coster (Associate Professor at Griffith University, Australia)
 
 ---
 
-# :speech_balloon: But What are Users Saying? :speech_balloon:
 > “The Open Course Hub project provides a series of excellent resources for integrating Grav with Canvas, as well as documentation and examples which make them a joy to work with. It is quick to set up, easy to use, and especially with the Git Sync plugin shows the power of a modern approach to integrated CMS-LMS solutions. The large and complex architecture of Canvas is complemented by the relative simplicity of Grav, and the Open Course Hub demonstrates this well.”
 -- Ole Vik (Research Assistant at the University of Bergen, Norway and Grav Plugin Developer)
 
