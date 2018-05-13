@@ -42,7 +42,7 @@ autoscale: true
 
 ---
 
-# Key Aspects of Grav
+# Grav Highlights
 [.build-lists: true]
 [.text: line-height(.8)]
 - Modular
