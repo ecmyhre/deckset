@@ -219,12 +219,12 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 
 [.background-color: #8fa33b]
-# Additional Open-related Grav Projects
+# What About Other Open-related Grav Projects?
 
 ---
 
 [.text: line-height(.8)]
-# :satellite: Additional Open-related Grav Projects :satellite:
+# More Open-related Grav Projects
 - Open Publishing Space
   - Share and collaboratively edit Markdown-based OER
 - Learn2 with Git Sync
@@ -309,7 +309,6 @@ Twitter: [@hibbittsdesign](https://twitter.com/hibbittsdesign)
 Email: [paul@hibbittsdesign.org](mailto://paul@hibbittsdesign.org)
 
 **Grav Open Course Hub**
-Demo: [demo.hibbittsdesign.org/coursehub](http://demo.hibbittsdesign.org/coursehub)
+Docs: [learn.hibbittsdesign.org/coursehub](http://learn.hibbittsdesign.org/coursehub)
 Canvas Demo: [demo.hibbittsdesign.org/canvascoursehub](http://demo.hibbittsdesign.org/canvascoursehub)
 Moodle Demo: [demo.hibbittsdesign.org/moodlecoursehub](http://demo.hibbittsdesign.org/moodlecoursehub)
-Docs: [learn.hibbittsdesign.org/coursehub](http://learn.hibbittsdesign.org/coursehub)
