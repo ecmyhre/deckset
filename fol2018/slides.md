@@ -71,9 +71,11 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-# Grav Open Course Hub
 [.build-lists: true]
 [.text: line-height(.8)]
+
+# Grav Open Course Hub
+
 - Streamlined setup and configuration (incl. Git Sync)
 - Supports open and collaborative content (via Git repository)
 - Theme files synced to Git repository for collaborative authoring/assistance
