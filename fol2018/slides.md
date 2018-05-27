@@ -214,11 +214,19 @@ Built using Grav, Open Course Hub with Git Sync is designed to give tech-savvy e
 
 ---
 
-# Wait, What about _Inside_ of an LMS?
+# What about _Inside_ of an LMS?
 ## [canvas.sfu.ca/courses/35900](https://canvas.sfu.ca/courses/35900)
 
 ---
 
+# :speech_balloon: OK, But What are Students Saying? :speech_balloon:
+
+---
+
+> “The 363 Canvas course website does an excellent job of presenting only the current week’s relevant assignments and readings on the Home page. This makes using the site a breeze because no time is required to actually navigate the site – all the important stuff is there in one click!”
+-- SFU CMPT-363 Student
+
+---
 
 [.background-color: #8fa33b]
 # What About Other Open-related Grav Projects?
