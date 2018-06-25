@@ -11,7 +11,7 @@ autoscale: true
 1. What is Grav?
 2. Grav Open Course Hub Project
 3. Other Open-related Grav Projects
-4. Next Steps
+4. Next Steps...
 
 ---
 
